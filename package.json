@@ -1,0 +1,22 @@
+{
+  "name": "dark-harden",
+  "displayName": "Dark Harden",
+  "publisher": "SchalkBurger",
+  "description": "Dark Harden Theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Harden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Harden-color-theme.json"
+      }
+    ]
+  }
+}
